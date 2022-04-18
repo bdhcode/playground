@@ -12,7 +12,8 @@ const HomeScreen = (props) => {
       <Text style={styles.subtitle}>List of exmaples</Text>
       <View style={styles.linksContainer}>
         <Link to="ImageSliderOne">Image slider #1</Link>
-        <Link to="PlaygroundScreen">Playground</Link>
+        <Link to="CountdownTimerScreen">Countdown timer</Link>
+        <Link to="MaskScreen">Masked view</Link>
       </View>
     </View>
   );
