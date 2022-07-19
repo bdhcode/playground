@@ -14,6 +14,7 @@ const HomeScreen = (props) => {
         <Link to="ImageSliderOne">Image slider #1</Link>
         <Link to="CountdownTimerScreen">Countdown timer</Link>
         <Link to="MaskScreen">Masked view</Link>
+        <Link to="MaskedViewButtonScreen">Masked view button</Link>
       </View>
     </View>
   );
